@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page - ICT Task</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to ICT Task</h1>
+        <p>This is a demonstration of how to apply external stylesheets to a webpage. The heading is styled as per the given instructions with Arial font, yellow color, left-aligned text, and bold weight. Additionally, a background image is used to enhance the presentation of this page.</p>
+    </div>
+</body>
+</html>
